@@ -15,7 +15,7 @@ Wiktionary contents are available under the Creative Commons Attribution-ShareAl
 https://creativecommons.org/licenses/by-sa/3.0/
 
 OUTPUT
-CSV file (separator = tab) with full data from the first table of the page
+TSV file with full data from the first table of the page
 """
 
 # HTML parsing
@@ -82,7 +82,6 @@ page_url = 'https://en.wiktionary.org/wiki/Appendix:Pa-Hng_comparative_vocabular
 all_tables = find_all_tables(page_url)
 # In this case, I only want data from the first table
 table_to_extract = all_tables[0]
-print(type(table_to_extract))
-# Creating CSV file
-csv_file = 'Pa-Hng_and_Hm_Nai_dialects.csv'
+# Creating CSV (TSV) file
+csv_file = 'Pa-Hng_and_Hm_Nai_dialects_FullTable.tsv'
 table_to_csv(table_to_extract, csv_file)

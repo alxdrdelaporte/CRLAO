@@ -9,21 +9,21 @@ https://github.com/alxdrdelaporte/CRLAO
 Reshaping a table scrapped from Wiktionary page for Guillaume JACQUES's research project
 
 INPUT
-'Pa-Hng_and_Hm_Nai_dialects_FullTable.csv' CSV file (delimiter = tab)
+'Pa-Hng_and_Hm_Nai_dialects_FullTable.tsv' TSV file
 Table extracted from https://en.wiktionary.org/wiki/Appendix:Pa-Hng_comparative_vocabulary_list
 (last edited on 17 March 2020, at 06:10)
 Wiktionary contents are available under the Creative Commons Attribution-ShareAlike License
 https://creativecommons.org/licenses/by-sa/3.0/
 
 OUTPUT
-CSV file (delimiter = tab), one column for each language
+TSV file, one column for each language
 """
 
 # CSV files processing
 import csv
 
 
-with open('Pa-Hng_and_Hm_Nai_dialects_FullTable.csv', "r") as full_table, open('Pa-Hng_and_Hm_Nai_dialects.csv', "w",
+with open('Pa-Hng_and_Hm_Nai_dialects_FullTable.tsv', "r") as full_table, open('Pa-Hng_and_Hm_Nai_dialects.tsv', "w",
                                                                      encoding='utf8') as new_table:
     # Extracting data to set new table headers (= Chinese gloss + 1 column per language)
     languages = ['Chinese gloss']
