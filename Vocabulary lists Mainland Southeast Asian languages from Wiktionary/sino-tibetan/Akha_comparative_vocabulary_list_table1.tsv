@@ -1,0 +1,496 @@
+no.	gloss	Akha Chicho	Akha Buli
+1	body hair	kʰɯ⁵⁵tɕa²¹tɕa²¹xm³³	tɕa²¹xm³³
+2	skin	ba³³xo³³, ɕa²¹xo³³	ba̰³³xo̰²¹
+3	bone	ɕa²¹jø²¹	ɕa²¹jø²¹
+4	blood	ɕi²¹	ɕi²¹
+5	tears	mja̰²¹bḭ³³	mja̰²¹bi³³
+6	sweat	kʰu³³pʰju⁵⁵	kʰu²¹pʰju⁵⁵
+7	pus	ɕa²¹tɕʰi²¹	ma̰³³lo̰³³
+8	saliva	du²¹xa²¹	do²¹xa²¹
+9	phlegm	u²¹tsʰu³³tsʰu²¹pɛ̰³³	do²¹xa²¹ʨa̰³³pɛ̰³³
+10	head	u²¹du²¹	u²¹du²¹
+11	forehead	na⁵⁵xɔ⁵⁵	na⁵⁵xɔ⁵⁵
+12	hair	u²¹du²¹tsʰɛ⁵⁵kʰɤŋ⁵⁵	u²¹du²¹tsʰɛ⁵⁵kʰɤŋ⁵⁵
+13	comb	u²¹du²¹ka̰³³	u²¹ka̰³³
+14	face	ȵa̰³³pʰjɔ²¹	mja̰³³pʰjo²¹
+15	eyebrow	mja̰³³nɤ̰³³mja̰³³xɤŋ⁵⁵	mja̰³³xɤŋ³³mja̰³³ɕɛ̰³³
+16	eyes	mja̰³³nɤ̰³³	mja̰³³nɤ̰ŋ³³
+17	ears	na̰³³pa̰³³	na̰²¹pa̰²¹
+18	nose	na̰³³bɤŋ²¹	na̰³³bɤŋ²¹
+19	mouth	xa²¹mɛ̰³³	xa²¹mɛ̰³³
+20	tongue	mɛ²¹la⁵⁵	mɛ²¹la⁵⁵
+21	teeth	sɤ²¹	sɤ²¹
+22	beard/mustache	mɛ²¹mɤŋ²¹	(xa²¹mɛ̰³³) mɛ²¹mɤŋ²¹
+23	neck	kʰɤŋ²¹lɤŋ⁵⁵	kʰɤŋ²¹lɤŋ⁵⁵
+24	throat	kʰɤŋ²¹bjɤŋ²¹	kʰɤŋ²¹bjɤŋ²¹
+25	shoulder	ba²¹pʰu³³	ba̰²¹pʰu³³
+26	hand	a̰³³la̰³³	a̰²¹la̰²¹
+27	right-hand	la̰²¹ma⁵⁵	a⁵⁵ma⁵⁵
+28	left-hand	la̰²¹tɕʰa⁵⁵	a⁵⁵ʨʰa⁵⁵
+29	arm	la̰²¹dṵ³³	la̰²¹du³³
+30	elbow	la̰²¹tsɯ̰²¹	la̰²¹tsɯ̰²¹
+31	palm	la̰²¹xɔ̰³³	la̰²¹ɣa̰²¹a²¹o³³pʰo³³
+32	finger	la̰²¹nø³³	la̰²¹nø⁵⁵
+33	fingernail	la̰²¹sɤŋ²¹	la̰²¹sɤŋ²¹
+34	breast	nuŋ³³xɤŋ²¹	nɤ³³xɤŋ²¹
+35	nipple	a²¹tɕʰø⁵⁵	a̰²¹ʨʰy⁵⁵(ʨʰy⁵⁵)si²¹
+36	waist	dɔ⁵⁵tsɯ̰²¹	dʑo̰²¹
+37	belly	u²¹ma̰³³	m²¹ma̰³³
+38	navel	bø³³lø³³tɕa³³tʰɤŋ²¹	bø̰³³lø̰³³
+39	buttocks	dɔ²¹xm²¹	dɔ²¹xm²¹
+40	feces	dɔ²¹kʰe²¹	ʨʰe²¹
+41	to defecate	dɔ²¹kʰe²¹	dɔ²¹kʰe²¹ kʰe²¹
+42	urine	y⁵⁵ɕy³³	a̰³³ɕy²¹ɕy²¹
+43	to urinate	y⁵⁵ɕy³³ɕy³³	a̰³³ɕy²¹ɕy²¹
+44	to expel intestinal gas	u²¹xa²¹pʰɛ²¹	u²¹xa²¹ pʰɛ²¹
+45	to have a fever	tsɛ²¹tʰɤŋ⁵⁵tʰɤŋ⁵⁵pʰja²¹pʰja²¹	tsɛ̰²¹tʰɤŋ³³tʰɤŋ³³
+46	to give birth	ja²¹pʰu²¹	za²¹bo̰³³
+47	leg	a²¹kʰɯ⁵⁵	a̰²¹kʰɯ⁵⁵
+48	foot	a²¹kʰɯ⁵⁵pʰja²¹ɣa²¹	a̰²¹kʰɯ⁵⁵pʰɛ²¹ɣa²¹
+49	thigh	ɕa²¹pʰja²¹	ɕa²¹pʰja²¹
+50	knee	pʰɔ²¹tsɯ̰²¹	a̰²¹kʰɯ⁵⁵pʰɔ²¹tsɯ̰²¹
+51	tendon	ɕa²¹gu²¹	ɕa²¹gṵ²¹
+52	back	ɣɔ⁵⁵mɔ⁵⁵	ɣɔ³³mɔ³³
+53	to see, to look	mɔ⁵⁵la⁵⁵, xɔ³³	xɔ³³, xɔ³³mɔ⁵⁵
+54	to seek	dʑa⁵⁵tɕʰɔ³³	dʑa⁵⁵ʨʰɔ³³
+55	to hear, to listen	ga²¹la⁵⁵mi⁵⁵ȵa²¹la²¹, na⁵⁵xa²¹	ga²¹ma³³, na⁵⁵xa²¹
+56	to smell	bɛ̰²¹la̰³³	bɛ̰²¹la̰²¹
+57	to eat	dza²¹	dza²¹
+58	to drink	dɔ⁵⁵	dɔ⁵⁵
+59	to bite	kɔ̰²¹	kɔ̰²¹
+60	to hold with the hand	ȵi²¹tʰɛ²¹	ȵi²¹tʰɛ²¹, tsu²¹tʰɛ²¹
+61	to put, to place in/on	o³³tʰa²¹	ɔ³³tʰa²¹
+62	to push	tʰɤŋ²¹, dɛ²¹dzɛ̰³³	tʰɤŋ²¹i⁵⁵, dɛ²¹i⁵⁵
+63	to pull	ɣɤ³³	ɣɤ³¹a̰²¹, ɣɤ³³le²¹, ɣɤ³³i³³le²¹
+64	to throw	dzɛ³³di⁵⁵	dzɛ³³di⁵⁵
+65	to pick up	o̰³³	o³³ma³³dɛ²¹, ju³³ma³³dɛ²¹
+66	to ladle	tɔ̰³³	kɔ̰²¹
+67	to walk	tɕʰɤŋ³³	ʨʰɤŋ³³
+68	to stop	tʰɤŋ⁵⁵dʑɔ⁵⁵	na²¹, ʥɔ⁵⁵
+69	to run	tɕi⁵⁵tɕʰø²¹tɕʰø²¹	la̰²¹dzɛ³³dzɛ³³
+70	to sit	dɔ²¹nɤ⁵⁵nɤ⁵⁵	dɔ²¹nɤŋ⁵⁵nɤŋ⁵⁵
+71	to stand up	ɣɔ²¹jɔ²¹jɔ²¹	jɔ̰²¹tʰu⁵⁵
+72	to cough	u²¹tsʰø²¹tsʰø²¹	u²¹tsʰø²¹tsʰø²¹
+73	one	tḭ³³	tḭ²¹
+74	two	ȵḭ²¹	ȵḭ²¹
+75	three	suŋ⁵⁵	sm⁵⁵
+76	four	o̰²¹	ø̰²¹
+77	five	ŋa²¹	ŋa²¹
+78	six	kɔ̰²¹	ko̰²¹
+79	seven	ɕḭ³³	ɕḭ²¹
+80	eight	jɛ̰³³	jɛ̰²¹
+81	nine	ɣø²¹	ɣø²¹
+82	ten	tsʰe⁵⁵	tsʰɛ⁵⁵
+83	eleven	tsʰe⁵⁵tḭ³³	tsʰɛ⁵⁵tḭ²¹
+84	twelve	tsʰe⁵⁵ȵḭ³³	tsʰɛ⁵⁵ȵḭ²¹
+85	twenty	ȵḭ³³tsʰe⁵⁵	ȵḭ²¹tsʰɛ⁵⁵
+86	ninety nine	ɣø²¹tsʰe⁵⁵ɣø²¹	ɣø²¹tsʰɛ⁵⁵ɣø²¹
+87	one hundred	tʰi³³ja⁵⁵	tʰi²¹ja⁵⁵
+88	one hundred and one	tʰi³³ja⁵⁵tḭ³³	tʰi²¹ja⁵⁵a²¹ta̰³³tḭ²¹
+89	one hundred and ten	tḭ²¹ja⁵⁵tsʰe⁵⁵	tʰi²¹ja⁵⁵a²¹ta̰³³tsʰɛ⁵⁵
+90	one thousand	tʰi³³ba²¹	tʰi²¹ba²¹
+91	ten thousand	tsʰe⁵⁵ba²¹	tsʰɛ⁵⁵ba²¹
+92	one hundred thousand	tʰi³³sɛ⁵⁵	tsʰɛ⁵⁵mɯn⁵⁵
+93	one million	tʰi³³la²¹	tsʰɛ⁵⁵sɛ³³
+94	many	ɣɔ³³mja⁵⁵ȵi⁵⁵	jɔ³³mja²¹
+95	few	jɔ³³ȵi⁵⁵	jɔ³³ʨḭ³³, jɔ³³tɛ̰²¹
+96	all	dɔ³³tɔ⁵⁵ȵi⁵⁵	ma⁵⁵to⁵⁵(ma²¹)lo̰²¹, ʥi⁵⁵ʨʰo²¹lo²¹
+97	only	~tɛ̰³³	tʰi²¹ɣa²¹(tɛ̰²¹) (one person)
+98	sky	uŋ²¹ɣuŋ²¹	m²¹
+99	cloud	u²¹duŋ³³	m²¹dm⁵⁵
+100	fog	tɕʰɤ²¹	ʨʰɤ²¹
+101	sun	nuŋ⁵⁵ma³³	nɤ³³ma³³
+102	moon	ba̰³³la̰³³	ba³³la³³
+103	star	a²¹gɯ⁵⁵	a²¹gɯ⁵⁵
+104	wind	dʑa²¹lɛ⁵⁵	ʥa²¹lɛ⁵⁵
+105	to blow	bɔ̰³³	bɔ³³
+106	rain	u²¹jɛ⁵⁵	m²¹jɛ⁵⁵
+107	it rains	u²¹jɛ⁵⁵jɛ⁵⁵	m²¹jɛ⁵⁵ jɛ⁵⁵
+108	light	jɔ³³bja̰³³	na⁵⁵gɯ⁵⁵gɯ⁵⁵la⁵⁵ȵa²¹ei³³
+109	shadow	a³³ba³³	a⁵⁵ba⁵⁵(ba⁵⁵jɛ⁵⁵)
+110	bright	bja⁵⁵tɕɛ⁵⁵ne⁵⁵, lɔ²¹kʰa⁵⁵ne⁵⁵	jɤ³³bja³³
+111	dark	jɔ³³ɣɤŋ⁵⁵	jɤ³³ɣɤŋ⁵⁵
+112	thunder	u²¹dʑɛ²¹dʑɛ²¹	m²¹ʥe²¹ʥe²¹
+113	it thunders	tsʰo²¹dɛ̰³³	m²¹ʥɛ²¹tʰɤŋ²¹tɛ̰³³tɛ̰³³
+114	soil, earth	mi⁵⁵tsʰa²¹	mi⁵⁵tsʰa²¹
+115	stone	xa²¹lo̰³³	xa²¹lo³³
+116	sand	kʰa⁵⁵ɕɯ³³	kʰa⁵⁵ɕɤ²¹
+117	iron	ɕom⁵⁵~ɕoŋ⁵⁵	ɕoŋ⁵⁵
+118	rust	ɕoŋ⁵⁵kʰɔ³³	ɕoŋ⁵⁵kʰɔ³³
+119	gold	ɕɯ⁵⁵	ɕɯ⁵⁵
+120	silver	pʰju⁵⁵	pʰju³³
+121	copper	ɣɯ²¹	ɣɯ²¹
+122	hill, mountain	gɔ²¹dʑɔ²¹	gɔ²¹ʥɔ²¹
+123	valley	ga̰²¹ɤŋ⁵⁵ɤ³³	xa²¹lo³³lo³³gu⁵⁵
+124	water	u⁵⁵tɕṵ³³	ɤ³³ʨṵ²¹
+125	lake	lɔŋ³³ma̰³³	lɔŋ³³ma̰³³
+126	river	lɔ⁵⁵ba²¹	lɔ̰³³ɣɔ̰³³
+127	fire	mi²¹dza²¹	mi²¹dza²¹
+128	smoke	u²¹xø²¹	(mi²¹dza²¹) u²¹xø²¹
+129	house	ȵuŋ³³~juŋ³³	juŋ³³
+130	roof	xɔ²¹bø²¹	(juŋ³³) kʰɔ²¹bø²¹
+131	grave	tsʰɔ³³ɕi³³mɔ³³du²¹	lm²¹bjuŋ⁵⁵
+132	to open	pʰɤŋ³³	pʰɤŋ³³
+133	to close	ka̰²¹pʰi²¹	pʰi²¹tʰɛ²¹
+134	pillar	dɤŋ³³lɤŋ³³	xɔ³³zɤ³³
+135	door	lɛ⁵⁵ɔ̰³³	la⁵⁵ɔ̰³³
+136	window	lɛ⁵⁵ɔ̰³³ja²¹	la⁵⁵ɔ³³ɔ³³za²¹
+137	floor	tsʰɔ²¹du²¹	juŋ³³dzoŋ³³ɣa³³
+138	key	mɔ²¹tɔ̰²¹tɔ̰²¹du⁵⁵	mo²¹tɔ²¹tɔ²¹du⁵⁵
+139	mat	gɔ²¹pʰu³³	ɣa̰³³la̰³³
+140	covering	a⁵⁵bɯ̰³³	a⁵⁵bɯ̰³³
+141	pillow	uŋ³³ɣuŋ³³pʰa⁵⁵ɕi²¹	u²¹gm²¹pʰa⁵⁵si²¹
+142	mosquito net	bɤ³³kʰa³³	bɤ³³kʰa³³
+143	table	bo²¹da²¹	dʑɔ̰²¹xa̰³³xɔ²¹dʑɛ³³, a⁵⁵bɔ⁵⁵xɔ²¹ʥɛ³³
+144	chair	nɤŋ⁵⁵da²¹	nɤŋ⁵⁵ʥɛ̰³³, nɤŋ⁵⁵gɔ²¹, nɤŋ⁵⁵bo²¹
+145	to sweep	ja̰³³pʰjɔ⁵⁵ja̰³³	ja²¹pʰjo⁵⁵ ja²¹[1]
+146	to splash water	u⁵⁵tɕṵ²¹ɕɛ³³dzɛ³³	ɤ³³ʨṵ²¹ xɔ̰²¹dzɛ̰³³
+147	knife	mi³³tɕʰɛ⁵⁵	mi²¹ʨʰɛ³³ʥi³³ba²¹, mi²¹ʨʰɛ³³tʰɔ²¹ʨʰø²¹
+148	sword	mi⁵⁵tɕʰɛ⁵⁵tʰɤŋ³³ma³³	mi²¹ʨʰɛ³³tʰɔ³³ma³³
+149	sickle	jɛ̰³³xo̰³³	jɛ̰³³xo̰²¹
+150	to cut	dɤ³³xe³³, jɛ̰²¹	lɯ̰³³tsɛ̰³³, jɛ̰²¹pa̰³³, jɛ̰²¹tsɛ̰³³
+151	nail	ɕoŋ⁵⁵tɕʰɛ³³	ɕoŋ⁵⁵ʨʰɛ³³
+152	ladder	dɔ²¹dzuŋ³³	dzo²¹dzm³³
+153	basket	xa³³dza̰³³	xa²¹kʰa³³, kʰa²¹tʰu⁵⁵, etc.
+154	rope	a⁵⁵tɕa̰³³	a³³ʨa̰²¹
+155	stick	gɔ²¹jø²¹	gɔ̰²¹jø²¹
+156	tail	dɔ²¹mi²¹	dɔ²¹mi²¹
+157	horn	u²¹tɕʰø⁵⁵	u²¹ʨʰy⁵⁵
+158	wing	a²¹dɤŋ⁵⁵	a²¹dɤŋ⁵⁵
+159	tiger	xa²¹la²¹	xa²¹la²¹
+160	elephant	ja̰³³ma̰³³	ja̰³³ma̰³³
+161	mouse	xu³³tɕa̰²¹	xo̰²¹ʨa̰²¹
+162	bird	a³³dʑi³³	a̰³³ʥḭ³³
+163	to fly	ɣɔ̰³³	ɣɔ³³
+164	egg	xa³³ṵ³³	ɣa̰³³ṵ³³
+165	to lay egg	ṵ³³kʰa³³	ɣa̰³³u³³ kʰa³³
+166	sparrow	xa²¹dʑa⁵⁵	xa²¹ʥa⁵⁵
+167	crow	ɔ̰²¹a̰²¹	ɔ̰²¹a̰²¹
+168	hawk	xa²¹dzɛ⁵⁵	xa²¹dzɛ⁵⁵
+169	peacock	ɕoŋ⁵⁵dø²¹	ɕm⁵⁵dø²¹
+170	buffalo	a²¹ȵo²¹	a̰²¹ȵo²¹
+171	cat	a³³mi⁵⁵	a⁵⁵mi⁵⁵
+172	beef	mo⁵⁵nɛ⁵⁵ɕa²¹dʑi⁵⁵	mo³³ne³³ɕa²¹ʥi³³
+173	pig	a̰³³ɣa̰³³	a̰²¹ɣa̰²¹
+174	pork	a̰³³ɣa̰³³ɕa²¹dʑi⁵⁵	a̰²¹ɣa̰²¹ɕa²¹ʥi³³
+175	monkey	a⁵⁵mjo̰²¹	a̰³³mjo̰²¹
+176	horse	mɔŋ²¹	mɤŋ²¹
+177	rabbit	xo³³	xo³³
+178	bear	xa²¹xm⁵⁵	xa²¹xm⁵⁵
+179	dog	a²¹kʰɯ²¹	a̰²¹kʰɯ²¹
+180	to bark	a²¹kʰɯ³³tsɛ̰³³	a̰²¹kʰɯ²¹tsɛ̰²¹
+181	goat	tɕḭ³³mɛ̰³³	ʨḭ²¹mɛ²¹
+182	cattle	mo⁵⁵nɛ⁵⁵	mo³³ne³³
+183	chicken	a²¹xa̰³³ɕa²¹dʑi⁵⁵	ɣa̰³³ʨḭ³³ɕa²¹ʥi³³
+184	duck	ɔ̰²¹a̰³³	ɔ̰³³a̰³³[2]
+185	bee	ɣa̰²¹bja²¹	ɣa²¹bja²¹bja²¹ma̰³³
+186	fly	bø²¹sa̰³³a̰²¹ma̰³³	bɯ²¹sa³³a̰²¹ma̰³³
+187	mosquito	tɕʰa⁵⁵gɔ³³a⁵⁵mɔ⁵⁵	a̰²¹ʨʰa⁵⁵ʨʰa⁵⁵gɔ²¹
+188	spider	a⁵⁵pʰja³³lu³³wa³³	a̰³³pʰja³³la̰²¹ka̰³³
+189	maggot	lu³³tʰɤŋ²¹	lṵ³³tʰɤŋ²¹
+190	ant	a⁵⁵xo̰³³	a̰³³xo³³
+191	butterfly	a̰⁵⁵lṵ³³	a̰³³lu³³
+192	cicada	a⁵⁵ɕɤ⁵⁵ɕɤ⁵⁵nɔ³³	a̰²¹ʥɛ²¹
+193	earthworm	bu²¹dʑø³³	bu²¹ʥy³³
+194	centipede	la²¹ma³³tɕʰi⁵⁵ɕɛ⁵⁵	a̰²¹ma̰²¹ʨʰi⁵⁵ɕɛ⁵⁵
+195	snake	a³³lɔ³³	a̰³³lɔ³³(ma³³)
+196	gecko	xa²¹lɔ³³lɔ³³dʑi⁵⁵, xa²¹lɔ³³bi³³dʑɛ³³	a²¹jɛ³³ma⁵⁵bjɛ³³, mɔ⁵⁵bjɛ³³a̰²¹ma̰³³
+197	fish	ŋa²¹ɕa²¹	ŋa²¹ɕa²¹
+198	shrimp	ȵi³³bɤŋ³³tɕʰu⁵⁵xo³³	ȵi³³bɤŋ³³ʨʰi⁵⁵xo̰²¹
+199	crab	a⁵⁵kʰa³³	a̰³³kʰa²¹
+200	frog	xa²¹pʰa²¹, xa²¹pʰa³³pʰa²¹tɕa̰²¹	xa²¹pʰa²¹, xa²¹pʰa³³ʨa̰²¹
+201	eel	dɛ³³sø̰³³	dɛ³³sø̰³³
+202	turtle	bø²¹ku⁵⁵, bø²¹bja³³	bø²¹kṵ³³
+203	to fish with a rod	ŋa²¹dʑɤ̰³³dʑɤ̰³³	ŋa²¹dʑɤ̰²¹dʑɤ²¹
+204	to hunt	ɕa²¹tʰɛ³³, a²¹dʑi³³bɤ̰³³	ɕa²¹ʥo̰²¹tʰɛ³³
+205	to shoot	mi²¹bɤ̰³³ bɤ̰³³	(ȵiŋ²¹bɤ³³) bɤ̰³³
+206	musket	bɤ̰³³ja²¹	mi²¹bɤ³³jɤ³³dɤ̰³³, mi²¹bɤ³³jɤ³³məŋ⁵⁵
+207	to kill	sɛ̰²¹	sḛ²¹
+208	seed	a⁵⁵nɤ̰³³	a⁵⁵nɤ̰ŋ³³
+209	to seed	a⁵⁵nɤ̰³³xɤ²¹lo³³	a⁵⁵nɤ̰ŋ³³ju⁵⁵do̰³³
+210	sprout	a³³bɤ̰²¹	a³³by²¹
+211	stem	la³³kʰɤŋ²¹, a⁵⁵kʰɤŋ²¹	a⁵⁵pa̰²¹pa̰²¹kʰɤŋ²¹
+212	tree	a³³bɔ³³	a³³bɔ³³
+213	leaf	a⁵⁵pa̰²¹	a⁵⁵pa̰²¹
+214	trunk	tʰi²¹kʰɤŋ²¹, tʰi²¹bɔ³³	a³³bɔ³³jɤ²¹dɔ³³
+215	root	dɔ²¹tɕʰi⁵⁵	du²¹ʨʰi⁵⁵
+216	grass	ja³³mo̰²¹	ja⁵⁵mo̰²¹
+217	to grow	ɣɔ³³lø³³ȵi³³xɤ²¹la⁵⁵	jɔ³³xɤ²¹xɤ²¹i⁵⁵
+218	to wither	ɣɤ³³i⁵⁵	jɔ³³gɤ̰²¹gɤ̰²¹i⁵⁵
+219	flower	a⁵⁵jɛ³³	a⁵⁵jɛ̰³³
+220	to bloom	a⁵⁵jɛ³³ pʰo²¹la⁵⁵	a⁵⁵jɛ̰³³ pʰɛ³³la⁵⁵
+221	poppy	je²¹je³³a⁵⁵jɛ³³	je²¹je³³a⁵⁵jɛ̰³³
+222	thorn	a²¹gɤŋ³³	a̰²¹ɣɤŋ³³
+223	bean	a³³bɛ̰³³	a⁵⁵bɛ̰³³
+224	bamboo	xa²¹dʑɔ̰³³	ma³³sa²¹
+225	bamboo shoot	a³³bø̰²¹	ma³³sa²¹a⁵⁵by²¹
+226	mushroom	a²¹xm³³	a³³xm⁵⁵
+227	paddy plant	tɕʰɛ³³bɔ³³	ʨʰɛ⁵⁵ʨʰɛ⁵⁵bɔ⁵⁵
+228	rice	xɔ²¹, tɕʰɛ³³	xɔ²¹, ʨʰɛ⁵⁵
+229	corn	a⁵⁵dṵ³³, a²¹tɕɤ²¹	a⁵⁵du³³
+230	wax gourd	ɤ⁵⁵pʰu²¹	(u²¹ʥu²¹)u⁵⁵pʰu²¹
+231	cucumber	ɕi²¹xo²¹	ɕi²¹xo²¹
+232	bitter melon	la²¹xa²¹	ɕi²¹xo²¹xa²¹[3]
+233	pumpkin	ma³³dɛ³³	ma⁵⁵dɛ̰³³
+234	eggplant	ma³³xɤ³³	ma⁵⁵xɯ³³
+235	tomato	ɣɔ³³mɤ⁵⁵lɤ⁵⁵mɤ³³	ɔ̰²¹mɤ³³lɤ³³
+236	papaya	dɛ³³ma³³ŋa⁵⁵ɔ̰³³	ʨʰi⁵⁵dzɤŋ⁵⁵ŋa̰³³bɛ̰³³
+237	sesame	nuŋ²¹ɕi²¹	nuŋ²¹ɕi²¹~nm²¹ɕi²¹
+238	peanut	nɤŋ³³pʰɤŋ²¹	nɤŋ³³pʰɔŋ²¹, la²¹bɤ²¹nɤ³³pʰɤŋ²¹
+239	ginger	tsʰɔ²¹tsɯ̰²¹	tsʰɔ²¹tsɯ̰²¹
+240	fruit	a⁵⁵ɕi²¹	a⁵⁵ɕi²¹
+241	banana	ŋa³³bɛ̰³³	ŋa̰³³bɛ̰³³
+242	mango	dʑa⁵⁵ɔ̰²¹(a⁵⁵ɕi²¹)	ʥi⁵⁵ɔ̰²¹(a⁵⁵ɕi²¹)
+243	orange	ɕi²¹lø³³ma⁵⁵dʑi²¹	ɕi²¹lø³³
+244	mangosteen		
+245	tamarind	ɕi²¹bɛ²¹tɕʰɛ³³	ɕi²¹ʨʰa²¹ma⁵⁵kʰa⁵⁵
+246	hog plums		pʰɛ³³lo²¹a³³ɕi²¹
+247	jackfruits	ma⁵⁵mi²¹	ma⁵⁵mi²¹
+248	sugar cane	pʰɔ²¹tɕʰø⁵⁵	pʰɔ²¹ʨʰø⁵⁵
+249	betel nut	mɛ⁵⁵lɔ⁵⁵a⁵⁵ɕi²¹	ʥa̰²¹ʥa̰²¹a³³ɕi²¹
+250	to plant	kʰa³³	kʰa³³
+251	plow	tsʰɛ²¹ŋɔ²¹	tsʰɛ²¹
+252	irrigated field	dɛ³³ma³³	dɛ³³ma³³, dɛ³³ja⁵⁵
+253	upland field	ja³³	dɤŋ³³ta²¹, dɤŋ³³ja³³
+254	oil	ɣa̰²¹tsʰi⁵⁵	ɣa̰²¹tsʰi⁵⁵ (pig's oil)
+255	salt	tsa̰²¹lɤ̰²¹	tsʰa²¹dɤ̰²¹
+256	sugar	tsa̰²¹lɤ̰²¹tsa̰²¹tɕʰø⁵⁵	nam²¹ta³³ (<  Lao), pʰɔ²¹ʨa̰²¹
+257	chilli	la²¹pʰi⁵⁵	la²¹pʰi⁵⁵
+258	tea	lɔ⁵⁵bɔ²¹	lɔ⁵⁵bo²¹
+259	wine	dʑi⁵⁵ba²¹	ʥi⁵⁵ba²¹
+260	cigarette/tobacco	ja⁵⁵xɔ²¹, ja⁵⁵xɔ²¹xɔ²¹xa³³	ja⁵⁵xɔ²¹, ja⁵⁵xɔ²¹xa³³
+261	to cook rice	xɔ²¹ɤŋ⁵⁵ɤŋ⁵⁵	xɔ²¹ m⁵⁵[4]
+262	firewood	mi²¹dza³³(mi²¹kʰɔ²¹)	mi²¹dza²¹
+263	pot	ø̰²¹lɤŋ²¹	mɔ²¹sɤ⁵⁵, gɤ²¹pʰəŋ⁵⁵
+264	to boil	pu²¹	pu²¹
+265	to roast	pɤ³³	pɯ̰³³
+266	cloth	ɣɔ³³mɔ³³mɛ²¹tsʰø²¹	pʰɛ⁵⁵xɤŋ²¹mi²¹ʨʰɛ⁵⁵, mjo²¹tsʰø²¹
+267	to sew	mɛ²¹tsʰø²¹gṵ²¹	mjo²¹tsʰø³³gṵ²¹
+268	needle	a̰²¹ɣɔ̰²¹	a̰²¹ɣɔ̰²¹
+269	thread	a̰²¹ɣɔ̰²¹kʰɤŋ⁵⁵mi³³	sa²¹kʰɤŋ⁵⁵
+270	to knit	kʰa⁵⁵ja³³jɤ̰²¹	a³³jɛ̰³³tso̰³³
+271	to dye	sa³³pʰa⁵⁵na̰³³	sa³³pʰa⁵⁵ pu²¹
+272	to wash clothes	lɛ²¹tsʰi²¹	lɛ̰²¹tsʰi²¹
+273	to sun clothes	ɣɤ³³lɔ̰²¹, ɣɤ³³lɛ⁵⁵ŋa⁵³, u²¹tsʰa⁵⁵lɔ̰²¹	ɣɤ³³lɔ²¹, lɔ²¹ɣɤ³³, u²¹tsʰa⁵⁵ɣɤ⁵⁵lɔ³³
+274	clothes	pʰɛ³³xɤŋ²¹mi²¹tɕʰɛ⁵⁵	pʰɛ⁵⁵xɤŋ²¹
+275	hat	u²¹xo̰³³	ṵ²¹xo̰³³
+276	button	pʰɛ³³tɔ̰²¹	pʰɛ⁵⁵tɔ̰²¹
+277	shoes	sɛ²¹nɔ̰³³	sɛ²¹nɔ̰³³
+278	to make	uŋ⁵⁵mjo²¹uŋ⁵⁵	m⁵⁵mjo²¹m⁵⁵
+279	to break	ga̰³³pa̰³³	jɔ̰³³pa̰³³
+280	to wear	duŋ³³~dm³³	dm³³
+281	to undress	lɛ̰³³	lɛ̰³³
+282	road	ga⁵⁵ma³³	ga⁵⁵ma³³
+283	village	pʰu³³	pʰu³³
+284	to carry on the back	pʰi⁵⁵	pʰi³³
+285	to buy	ɣɤ⁵⁵ɣɤ̰³³	ɣɤ³³
+286	to sell	ɤŋ²¹	ɤŋ²¹
+287	to get	ɣa²¹la⁵⁵ŋa̰³³	la̰³³ɣa̰³³
+288	to lose	mɛ²¹gɤŋ²¹pi³³i⁵⁵ŋa̰³³	m⁵⁵mjo²¹ pi²¹i⁵⁵
+289	market	ga⁵⁵i⁵⁵dʑu²¹i⁵⁵ɤ³³	ga³³
+290	money	pʰju⁵⁵	(sɯ⁵⁵ɣa²¹)pʰju⁵⁵
+291	rich	sɔ⁵⁵mɤ²¹ja²¹ȵi⁵⁵	sm⁵⁵mɤŋ²¹a²¹ȵi⁵⁵
+292	poor	jɔ³³ɕa²¹	ji⁵⁵ɕa²¹ji⁵⁵tʰɔ³³
+293	to steal	su⁵⁵xø²¹xø²¹	suŋ⁵⁵xø²¹xø²¹
+294	to speak	dɔ³³dʑa³³dʑa⁵⁵ɔ²¹	ŋɛ²¹, dɔ²¹ŋɛ²¹ŋɛ²¹
+295	to ask	na⁵⁵xa²¹	do²¹na⁵⁵na⁵⁵xa²¹
+296	to answer	ɛ³³mɛ²¹	ʥa³³mɛ²¹
+297	to call	kʰu⁵⁵	kʰu⁵⁵
+298	(autonym) language	a⁵⁵dʑɔ⁵⁵a²¹kʰa³³ɤ³³dɔ²¹	bu³³li²¹a²¹kʰa³³ɤ²¹kʰu⁵⁵ʥɛ²¹
+299	Lao language	la²¹o³³dɔ²¹	la³³ɔ³³ɤ³³dɔ²¹
+300	Chinese language	la²¹bɤ̰³³ɤ³³dɔ²¹	la³³bɤ³³ɤ³³dɔ²¹
+301	to write	sɤŋ²¹bɔ²¹bɔ²¹	(sɤ²¹ɣa²¹) bo̰²¹
+302	to read	sɤ²¹ɣa²¹ ɣɤ³³	(sɤ²¹ɣa²¹) ɣɤ̰³³
+303	letter	dɔ²¹tsa̰²¹tsa̰²¹nɛ̰²¹ɤ³³	sɤ²¹ɣa²¹ ɕa⁵⁵la²¹ŋa³³, sɤ²¹ɣa²¹ ɕa⁵⁵i²¹ŋa³³
+304	book	sɤ²¹ɣa²¹pʰa⁵⁵dɤŋ²¹	sɤ²¹ɣa²¹ pa⁵⁵dm²¹
+305	paper	sɤ²¹ɣa²¹	sɤ²¹ɣa²¹~sɔ²¹ɣa²¹
+306	to stick	mjɤŋ³³lɛ⁵⁵	(dɛ̰²¹)mjɤŋ²¹
+307	to play	ȵi⁵⁵ɣɛ̰³³	ɣa³³i⁵⁵
+308	story	dɔ³³mɔ³³dɔ³³ø⁵⁵	ga̰³³dza²¹
+309	to tell a story	dø³³dø³³ɛ³³ dʑa³³	ga̰³³dza²¹ ʥa̰³³
+310	song	dɔ²¹tɕʰa⁵⁵	ʨʰa⁵⁵
+311	to dance	ȵɛ³³	ga³³ȵɛ³³ȵɛ³³, tsʰɔ²¹
+312	to win	tʰi³³ɣa³³i³³ma³³bi⁵⁵dʑa⁵⁵	ɣa²¹ma³³
+313	to lose a game	ma³³ɣa³³le⁵⁵ȵa³³	ma²¹ɣa²¹
+314	to get tired	ɣa²¹dø⁵⁵dø⁵⁵	ɣa²¹dø³³dø³³
+315	to rest	ɣa³³na³³na³³	ɣa²¹na²¹na²¹
+316	to sleep	jṵ²¹xa̰³³	ju²¹xa³³
+317	to dream	jṵ²¹ma̰³³ma̰³³	ju²¹ma³³ma³³
+318	to get up	jṵ²¹xa̰³³ɤ³³tʰu⁵⁵ɔ²¹	nø²¹la⁵⁵
+319	to die	ɕi⁵⁵xa̰³³	ɕi³³xa²¹
+320	age	a⁵⁵xo̰³³	a³³xo̰²¹
+321	to be ill	ma²¹jɛ⁵⁵ȵa³³	ʥo⁵⁵sa⁵⁵ma²¹do³³
+322	painful	mɔ⁵⁵du³³na⁵⁵	jo³³pʰi⁵⁵jo³³lɔŋ⁵⁵(lɔŋ⁵⁵)
+323	to hiccough	ɤ⁵⁵tɤ̰³³tɤ̰³³ȵa³³	ɯ̰³³tɯ̰²¹tɯ̰²¹
+324	to talk in one’s sleep	dɔ²¹dʑa³³dʑa³³ma̰³³ma̰³³	dɔ²¹ŋɛ³³ŋɛ³³ma̰³³ma̰³³
+325	louse	ɕɛ³³mɔ³³	ɕɛ⁵⁵mɔ⁵⁵, kʰɯ²¹ɕɛ⁵⁵
+326	medicine	dʑa³³ɣa²¹	ja̰²¹ɣa²¹
+327	bow	ka̰³³	da³³pjɤ̰³³
+328	arrow	ka̰³³mja²¹	ka³³mja²¹
+329	name	tsʰɔ⁵⁵mjɤŋ⁵⁵	tsʰɔ³³mjɤŋ³³
+330	father	a̰²¹da̰³³	a²¹da̰³³
+331	mother	a̰²¹ma̰³³	a²¹ma̰³³
+332	husband	a²¹jo³³	xa²¹ʥi⁵⁵
+333	wife	a²¹bu⁵⁵	mi²¹za²¹
+334	son	jɔ³³dʑi⁵⁵	a²¹jo̰³³
+335	daughter	mi²¹ja²¹	a²¹bu³³
+336	child	dʑa³³ja²¹	ʥa³³dza²¹ti⁵⁵
+337	elder brother	a³³gɔ̰³³	a³³gɔ̰³³
+338	younger brother	a²¹ȵi⁵⁵	a²¹ȵi⁵⁵
+339	elder sister	a⁵⁵jɤ̰³³	a⁵⁵jɤ̰²¹
+340	younger sister	du⁵⁵ma̰³³	a²¹ȵi⁵⁵
+341	grandfather	a²¹bɔ⁵⁵	a²¹bɔ⁵⁵
+342	grandmother	a²¹pʰi²¹	a²¹pʰi²¹
+343	grandchild	ø²¹pʰa²¹	ø̰²¹pʰa²¹
+344	uncle	a²¹ɣɔ⁵⁵, a²¹ɣø̰³³, a²¹mɤ³³	da⁵⁵da³³, a²¹ɣɔ⁵⁵, a²¹ɣø³³, ø⁵⁵xa²¹
+345	aunt	a²¹xo²¹, a̰³³jɤ̰²¹, tɕʰi⁵⁵ma̰³³	a²¹xo²¹, a²¹ȵi⁵⁵, ʨʰi⁵⁵ma⁵⁵
+346	cousin	a²¹tɕʰɤŋ³³	a²¹jɤ³³za²¹, a²¹ȵi⁵⁵za²¹
+347	friend	bɔ³³gɔ²¹	lɔ²¹gɯ̰³³ (male), a²¹jɛ⁵⁵ (female)
+348	male/man	a²¹jo³³	a²¹jo³³
+349	female/woman	a²¹bu⁵⁵	a²¹bu⁵⁵
+350	man/human being	tsʰɔ⁵⁵xa²¹(a³³ja²¹)	tsʰɔ⁵⁵xa²¹
+351	(autonym) people	dʑi²¹dʑɔ⁵⁵a²¹kʰa³³ɤ³³a̰²¹ma̰³³	bu³³li³³a²¹kʰa²¹ɤ²¹tsʰɔ⁵⁵xa²¹
+352	Lao people	la²¹ɔ³³ɤ³³tsʰɔ⁵⁵xa²¹	la³³ɔ³³ɤ³³ tsʰɔ⁵⁵xa²¹
+353	Chinese people	la²¹bɤ̰²¹ɤ³³tsʰɔ⁵⁵xa²¹	la²¹bɤ̰²¹ ɤ³³ tsʰɔ⁵⁵xa²¹
+354	doctor	na²¹mɔ³³	nai²¹mɔ³³ (< Lao)
+355	teacher	na²¹kʰu²¹, a³³tɕa³³	nai²¹kʰu²¹ (< Lao), a³³ʨan³³ (< Lao)
+356	shaman	ȵi⁵⁵pʰa²¹, bø⁵⁵mɔ²¹	ʨʰe⁵⁵tsʰi²¹ʨʰi³³xɔ³³
+357	god, spirit	nḛ³³	nḛ²¹
+358	temple	wa̰³³	
+359	priest	pʰɛ⁵⁵ɕɯ⁵⁵do²¹lo³³, pʰa⁵⁵ɕɯ⁵⁵ja²¹	
+360	to marry	mi²¹ja²¹dɤŋ²¹dza²¹, mi²¹ja²¹ɕɤ²¹	mi²¹za²¹ɕɤ²¹dɤŋ²¹dza²¹
+361	to meet with	tʰɤŋ²¹dzø⁵⁵, i⁵⁵dzø⁵⁵	xɔ³³mɔ⁵⁵
+362	to wait for	dɔ²¹(tʰɔ²¹)	dɔ̰²¹
+363	to give to	bḭ³³nɛ²¹	bḭ²¹
+364	to use	mɛ²¹xɛ⁵⁵xɛ⁵⁵	mɛ²¹xɛ⁵⁵ xɛ⁵⁵
+365	to look for	i⁵⁵mo⁵⁵, la⁵⁵mo⁵⁵	ʨʰa⁵⁵ʨʰɔ³³
+366	to laugh	ɯ⁵⁵	ɯ⁵⁵
+367	to love	ɣɔ²¹ɕa²¹ga̰²¹	ȵø²¹ta̰²¹
+368	to fear, to be afraid of	gṵ³³(la⁵⁵ȵa³³	gṵ²¹(la³³)ȵa²¹e³³
+369	to be frightened	tsʰɔ²¹gṵ⁵⁵(ȵa³³)	nɤ³³ma³³ga³³kʰa³³ȵa²¹e³³
+370	to be surprised	nø²¹gṵ³³la⁵⁵ȵa³³	nɤ³³ma³³ga³³kʰa³³[5]
+371	to know	ɕi²¹ȵa³³	ɕi²¹ȵa³³
+372	to remember	nø²¹dṵ²¹(tʰa³³ma⁵⁵)	nø̰²¹dṵ²¹tʰa²¹ma³³
+373	to forget	ŋɛ⁵⁵(ȵa³³)	ŋɛ⁵⁵(ȵa³³)
+374	cold	jɔ³³ŋɛ⁵⁵, ɤ²¹ga̰³³ga̰³³	jɔ³³ŋɛ⁵⁵(ŋɛ⁵⁵)
+375	hot	u²¹tsʰa⁵⁵tsʰa⁵⁵ȵa³³	jɔ³³lɔŋ⁵⁵
+376	hungry	xɔ²¹mɛ̰³³(ȵa⁵⁵)	xɔ²¹mɛ̰²¹
+377	thirsty	ɤ⁵⁵tɕṵ³³mɛ̰²¹la⁵⁵ȵa³³	ɤ³³ʨṵ²¹mɛ̰²¹
+378	drunk	dʑi⁵⁵ba²¹jɛ̰²¹ȵa³³, bu²¹dʑu⁵⁵dʑu⁵⁵ȵa³³	jɛ̰²¹
+379	delicious	jɔ³³kʰɯ⁵⁵	jɔ³³kʰɯ⁵⁵
+380	sweet	jɔ³³tɕʰø⁵⁵	jɔ³³ʨʰø⁵⁵
+381	sour	jɔ³³tɕʰɛ⁵⁵	jɔ³³ʨʰɛ⁵⁵
+382	pepper hot	la²¹pʰi⁵⁵(pʰi⁵⁵)	la²¹pʰi⁵⁵(pʰi⁵⁵)
+383	salty	jɔ³³ta̰³³	tsa̰²¹dɤ̰²¹ ta̰³³
+384	thing	mɛ²¹gɤŋ²¹mɛ²¹ma̰³³	mɛ²¹gɤŋ²¹, m⁵⁵mjo²¹
+385	big	jɔ³³xɤ²¹(xɤ²¹)	jɔ³³xɤ²¹
+386	small	jɔ³³ȵi⁵⁵	jɔ³³ȵi⁵⁵
+387	tall, high	jɔ³³go⁵⁵	jɤ³³gɔ⁵⁵[6]
+388	low	jɔ³³ɔ̰³³	jɔ³³ɣɔ̰³³
+389	long	jɔ³³mɔ⁵⁵	jɔ³³mɤŋ⁵⁵
+390	short	jɔ³³dɤ³³	jɔ³³ȵm⁵⁵
+391	broad, wide	jɔ³³gɛ⁵⁵gɛ⁵⁵	jɔ³³ʥɛ⁵⁵
+392	narrow	jɔ³³sṵ²¹	jɔ³³sṵ²¹
+393	thick	jɔ³³tʰu⁵⁵	jɔ³³tʰu⁵⁵
+394	thin	jɔ³³ba²¹	jɤ³³ba²¹
+395	deep	jɔ³³na̰²¹(na̰²¹)	jɤ³³na̰²¹
+396	shallow	ma²¹na̰²¹ŋa³³	ma²¹na̰²¹
+397	smooth	di⁵⁵dɛ³³ȵi⁵⁵	jɤ³³sa⁵⁵
+398	rough	ɣø³³nu⁵⁵	jɤ³³nɛ²¹
+399	round	lɤŋ³³dɤ⁵⁵ȵi³³	jɤ³³lɔŋ³³
+400	sharp	jɔ³³ta̰³³(ta̰³³), ta̰³³ju⁵⁵ȵi³³	jɤ³³ta̰³³
+401	dull	jɔ³³dɔ³³dɔ³³	ma²¹ta̰³³, ma²¹tɕʰɛ³³
+402	pointed	jɔ³³tɕʰɛ³³tɕʰɛ³³	(jɤ³³)ʨʰɛ³³, jɔ³³dɔ³³, jɔ³³jø³³
+403	color	si³⁵	si³³ (< Lao)
+404	red	jɔ³³ne⁵⁵	jɔ³³nɛ³³
+405	yellow	jɔ²¹ɕɯ⁵⁵	jɔ³³ɕɯ⁵⁵
+406	blue	jɔ³³pʰɤ⁵⁵	jɔ³³pʰɤ⁵⁵
+407	white	jɔ³³pʰju⁵⁵	jɔ³³ba̰³³
+408	black	jɔ³³na̰³³	jɔ³³na̰³³
+409	green	jɔ³³ȵø⁵⁵	jɔ³³ȵø⁵⁵
+410	sound, noise	tʰɛ⁵⁵sa⁵⁵	tʰe⁵⁵sa⁵⁵
+411	light	jɔ³³pʰja⁵⁵	jɤ³³pʰja⁵⁵
+412	heavy	jɔ³³kʰɤŋ³³	jɔ³³kʰɔŋ³³
+413	dry	jɔ³³ɣɯ³³	jɔ³³gɯ̰³³
+414	wet	jɔ³³tɕʰi²¹	jɔ³³ɣa̰²¹
+415	soft	jɔ³³nɤŋ²¹	jɔ³³bjḛ³³
+416	hard	jɔ³³ɣɤŋ⁵⁵	jɔ³³ɣɔŋ⁵⁵
+417	full	jɔ³³bjɤŋ³³	bjɤŋ³³la⁵⁵
+418	new	jɔ³³ɕɯ̰²¹	jɔ³³ɕɯ̰²¹
+419	old	jɔ³³ø⁵⁵	jɔ³³ø⁵⁵
+420	raw	jɔ³³dʑuŋ²¹~jɔ³³dʑm²¹	jɤ³³ʥm²¹
+421	done, ripe	jɔ³³dʑa̰²¹	jɔ³³ʥa̰²¹
+422	good	jɔ³³mɯ²¹	jɤ³³mɯ²¹
+423	bad	ma²¹mɯ²¹	ma²¹mɯ²¹
+424	difficult	jɔ³³xa̰³³	jɤ³³xa̰³³
+425	easy	jɔ³³ja⁵⁵	jɤ³³ɣɔ̰²¹
+426	expensive	jɔ³³pʰø²¹	jɔ³³pʰø²¹, a⁵⁵pʰø²¹jɔ³³xa⁵⁵
+427	cheap	ju⁵⁵tɕʰø⁵⁵ŋa⁵³	ma²¹pʰø²¹
+428	clean	jɔ³³ɕɔ⁵⁵	jɤ³³ɕɔ⁵⁵
+429	dirty	jɔ³³tɕa̰²¹	jɤ³³ʨa̰²¹
+430	gentle	nuŋ³³ma³³jɔ³³mɯ²¹	nɤ³³ma³³jɤ³³mɯ²¹
+431	angry	nuŋ³³ma³³jɔ³³xa̰²¹	nɤ³³ma³³ma²¹mɯ²¹
+432	happy, glad	jɔ³³mɯ²¹mɯ²¹ɛ⁵⁵dʑɔ⁵⁵	nɤ³³nø²¹jɤ³³sa⁵⁵
+433	ashamed	ɕa̰²¹dɔ⁵⁵bɔ̰³³	ɕa̰²¹dɔ⁵⁵bɔ³³, ɕa̰²¹dɔ⁵⁵dɔ⁵⁵
+434	stupid	jɔ²¹xa̰³³(ɛ³³) dɤ³³(ŋa³³)	a̰²¹dzɔ̰²¹a̰²¹ka̰²¹
+435	clever	jɔ³³gɤŋ⁵⁵(ŋa³³)	ma²¹dzɔ̰²¹ma²¹ka̰²¹
+436	quick, fast	jɔ³³ɣø⁵⁵(ɣø⁵⁵)	jɤ³³kʰɔ⁵⁵
+437	slow	jɔ³³ga̰³³	ma²¹kʰɔ⁵⁵, jɤ³³ga³³
+438	early	jɔ³³na̰²¹	jɔ³³na̰²¹
+439	fat	jɔ³³tsʰu⁵⁵	jɤ³³tsʰu⁵⁵
+440	thin	jɔ³³ko̰⁵⁵	jɤ³³jɛ̰²¹
+441	old of age	ja²¹mɔ²¹	mɔ²¹i⁵⁵
+442	young of age	ja²¹gu²¹	za²¹gu²¹
+443	year	a⁵⁵xo̰³³	a⁵⁵xo̰²¹
+444	this year	tsɤ³³nɤ⁵⁵xo̰³³	tsɯ̰³³nɤŋ³³xo̰²¹
+445	last year	mi⁵⁵nɤŋ³³xo̰³³	mi⁵⁵nɤŋ³³xo̰²¹
+446	next year	a²¹kʰa⁵⁵nḛ³³ja̰³³xo̰³³	nɛ̰²¹ja̰²¹xo̰²¹
+447	month	ba³³la³³	ba³³la³³
+448	this month	ba³³la³³xɤ³³ɕi²¹	ba³³la³³ȵm⁵⁵ɕi²¹
+449	last month	mi⁵⁵nɤ³³nɤŋ³³ɕi²¹	ba³³la³³mi⁵⁵nɤŋ²¹ɕi²¹
+450	next month	xɤ²¹sɤŋ⁵⁵ja³³ta²¹a³³ɕi²¹	ba³³la³³a²¹kʰa⁵⁵ɕi²¹
+451	now	ȵuŋ³⁵xɤ²¹la̰²¹, xɤ³³ja²¹ma³³, xɤ³³po³³la̰²¹	ȵm³³
+452	today	i²¹nɤŋ³³	i²¹nɤŋ³³
+453	yesterday	mi⁵⁵nɤŋ³³	mi⁵⁵nɤŋ³³
+454	tomorrow	ȵi³³ɕɤ²¹nɤŋ³³	nɤŋ³³ɕɔ²¹nɤŋ³³
+455	everyday	a²¹jɔ³³nɤŋ³³a²¹jɔ²¹	a²¹jɔ²¹nɤŋ³³a²¹jɔ²¹
+456	morning	u²¹ɕɔ³³pʰɔ³³	u²¹ɕɔ²¹jɤ³³na̰²¹
+457	noon	nɤŋ³³ɣɤŋ⁵⁵	nɤŋ³³ɣɤŋ⁵⁵
+458	evening	u²¹tɕi³³tɕi²¹tʰɔ³³	m²¹tɕi³³tʰɔ³³
+459	night	u²¹tɕi³³	m²¹tɕi²¹
+460	rainy season	u²¹jɛ⁵⁵jɛ⁵⁵ɤ³³jam²¹	jɛ³³ɣɤŋ³³jam²¹
+461	cold season	ɤ²¹ga̰³³ga̰³³ɤ³³jam²¹	tsɛ²¹ga³³jam²¹
+462	above	la²¹ta̰³³pʰɔ³³	xɔ³³ta̰³³, a²¹ta̰³³
+463	below	dɤŋ²¹dɤŋ³³pʰɔ³³	a²¹ɔ̰³³
+464	inside	la²¹xø⁵⁵	la²¹xø⁵⁵
+465	outside	la²¹ȵi⁵⁵	la²¹ȵi⁵⁵
+466	front	bø²¹tʰɛ⁵⁵pʰɔ³³	mi²¹ɕi⁵⁵pʰɔ⁵⁵
+467	back	na⁵⁵xɤŋ³³pʰɔ³³	na⁵⁵xɤŋ³³pʰɔ³³
+468	north	xø⁵⁵ta̰³³pʰɔ³³	a²¹ta̰³³pʰɔ³³
+469	south	dɤŋ²¹dɤŋ³³pʰɔ³³	a²¹ɔ̰³³pʰɔ³³
+470	east	nuŋ⁵⁵ma³³do̰³³xɛ²¹	nɤ⁵⁵ma³³do²¹la⁵⁵pʰɔ³³
+471	west	nuŋ⁵⁵ma³³ga³³xɛ²¹	nɤ⁵⁵ma³³ga³³i⁵⁵pʰɔ³³
+472	far	ɣɔ²¹mɔ⁵⁵ȵi²¹kʰa²¹	jɤ³³mɤŋ⁵⁵kʰa²¹
+473	near	dɔ²¹pʰɛ³³	dɔ²¹pʰɛ³³
+474	to come	la³³	la⁵⁵
+475	to go	i⁵⁵	i⁵⁵
+476	to return	o²¹le³³, o²¹la³³	o²¹le⁵⁵, o²¹la⁵⁵
+477	to enter	u³³	u⁵⁵(la⁵⁵)
+478	to exit	do³³	do̰³³(i⁵⁵)
+479	to climb, to ascend	da̰²¹	po̰³³, da³³le⁵⁵
+480	to descend	da̰²¹kʰa³³le³³	da²¹kʰa⁵⁵le⁵⁵
+481	to fall	ga³³kʰa³³	ga³³kʰa³³
+482	I	ŋa³³	ŋa⁵⁵
+483	you, thou	nɔ³³	nɔ⁵⁵
+484	he, she	tʰɤ³³ɣa²¹	tʰɤ⁵⁵ɣa²¹/nɔ⁵⁵[7]
+485	we	ŋa³³ma̰²¹, a̰³³dɤ̰³³ma̰²¹	ŋɔ⁵⁵dɤ²¹ma²¹, ŋa³³ma̰²¹ (EXCL)
+486	you, ye	nuŋ³³ma̰²¹	nuŋ³³ma̰²¹
+487	they	xø⁵⁵bɔ³³ma̰²¹	xø⁵⁵bɔ²¹
+488	who	a̰²¹so³³ɣa²¹	a²¹su³³ɣa²¹
+489	this	xɤ³³	xɤ³³ʥɛ²¹
+490	that	xø⁵⁵	xø⁵⁵ʥɛ²¹
+491	what	a²¹dʑɛ²¹	a²¹ʥɛ²¹
+492	where	a̰²¹ga³³	a²¹ga⁵⁵(dɛ⁵⁵)
+493	why	a̰²¹dʑɛ³³	a²¹ʥɛ²¹ŋa²¹
+494	very	jɔ³³xa̰⁵⁵mɯ²¹a³³	jɔ³³mɯ²¹mi⁵⁵ȵa³³ (very good)
+495	still	si²¹	ma²¹dza²¹ɤ³³ɕi²¹ (I have not eaten yet.)
