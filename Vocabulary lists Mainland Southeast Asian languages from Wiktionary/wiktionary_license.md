@@ -2,7 +2,7 @@
 
 The files in this repository contain data from a set of Wiktionary pages (see full list below).
 
-Text from Wiktionary is available under the **Creative Commons Attribution-ShareAlike License** (* read more(https://creativecommons.org/licenses/by-sa/3.0/)).
+Text from Wiktionary is available under the **Creative Commons Attribution-ShareAlike License** ([read more](https://creativecommons.org/licenses/by-sa/3.0/))
 
 # Vocabulary lists of Mainland Southeast Asian languages
 
